@@ -1072,7 +1072,7 @@
         "affectsGlobalScope": false
       },
       "./src/number-format/NumberFormatterRegistry.ts": {
-        "version": "4bcd8ac302513f5ba38319a4535cf0c9ccf1017c261b870f801f021090a88868",
+        "version": "5a9c62ef4483eab50bab98edd299c2b88ee65a2e321ea17e2f98c3a482eab451",
         "signature": "e0a83af85a5f2227c60d3a279c657aa72e4ee573909fc98a69f7c8c7bf100e31",
         "affectsGlobalScope": false
       },
