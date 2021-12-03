@@ -21,3 +21,5 @@ import { xxx } from '@superset-ui/core';
 
 `@data-ui/build-config` is used to manage the build configuration for this package including babel
 builds, jest testing, eslint, and prettier.
+
+by head-labs
